@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782421264178",
+    "project_id": "elderlyapp-c0d79",
+    "storage_bucket": "elderlyapp-c0d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782421264178:android:f35f09528af2c83638b92b",
+        "android_client_info": {
+          "package_name": "com.elderly.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782421264178-cuqq29sies0osvum7albdgb1f7o1invc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elderly.care",
+            "certificate_hash": "3fa2a053c2f9ae944239d3713db58c1a741b173b"
+          }
+        },
+        {
+          "client_id": "782421264178-qdbl5cc1m3ss6judfik9r2ikhon9ori4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43kUQ_6yY7oBt9mzJqmj8D1LEuPkEwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782421264178-qdbl5cc1m3ss6judfik9r2ikhon9ori4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
